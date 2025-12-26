@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tonye 👋
 
-<!--
-**tobintonye/tobintonye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Developer** who builds real-world systems using **Django** and **Spring Boot**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python (Django)
+- Java (Spring Boot)
+- REST APIs
+- MySQL
+- HTML, CSS, HTMX
+
+---
+
+## 📌 Projects (2025)
+- 🗓️ **EchoSlot** — Appointment Scheduling App
+- 🛒 **eStore** — E-commerce REST API
+- 🧠 **EaseTalk** — Anonymous Support Platform (Educational Project)
+
+---
+
+## 📈 Currently Improving
+- Backend architecture
+- API design
+- Data structures & algorithms
+- Deployment & Docker
+
+Thanks for checking out my work 🙂
